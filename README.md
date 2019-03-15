@@ -1,8 +1,8 @@
 # myExperience UX Design
 
-This project conducts a **Nielsen's Heuristic Evaulation** on the overall usability of Simon Fraser University's myExerience, a web application that allows students to view and search for job, co-op, and event postings. After the evaluation, **Usability Tested Mockups** were created based on usability tests to determine a user interface that addresses the issues found in the evaluation.
+This project conducts a **Nielsen's Heuristic Evaulation** on the overall usability of Simon Fraser University's myExperience, a web application that allows students to view and search for job, co-op, and event postings. After the evaluation, **Usability Tested Mockups** were created based on usability tests to determine a user interface that addresses the issues found in the evaluation.
 
-Due to the size of myExerience, the scope of the evaluation was limited to the following screens:
+Due to the size of myExperience, the scope of the evaluation was limited to the following screens:
 
 * Homepage – Dashboard Tab
 * Register for an Event Dialog Box – Co-Op Events Calendar
@@ -18,7 +18,7 @@ Due to the size of myExerience, the scope of the evaluation was limited to the f
 
 After the evaluation, user interface mockups were created. Then usability tests were conducted with 5-7 participants for each design.
 
-Due to the size of myExerience, mockups were limited to these key screens:
+Due to the size of myEpxerience, mockups were limited to these key screens:
 
 * Homepage
 * Event registration (both before and after registration)
